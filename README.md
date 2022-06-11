@@ -19,6 +19,6 @@
 ![alt text](screenshots/img2.png "Слайдер")      
 ![alt text](screenshots/img3.png "Калькулятор (потребность в калориях)")      
 ![alt text](screenshots/img4.png "Карточки товара")      
-![alt text](screenshots/img5.png "таймер обратного отсчета")      
+![alt text](screenshots/img5.png "Таймер обратного отсчета")      
 ![alt text](screenshots/img6.png "Модальное окно")     
 
